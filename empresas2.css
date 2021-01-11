@@ -67,7 +67,7 @@ header {
     position: relative;
     margin-bottom: 78px;
     height: 700px;
-    background-image: url('../img/entel3.jpeg');
+    background-image: url('../img/bch1.jpeg');
     background-size: 100%;
     background-position-y: -100px;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ h1 {
 
 
 .intro {
-  height: 3300px;
+  height: 2600px;
   padding: 90px 40px 500px;
   line-height: 150%;
 
@@ -189,7 +189,7 @@ footer {
 
 footer h2 {
   text-align: center;
-  padding: 280px 50px 0 50px;
+  padding: 200px 50px 0 50px;
   font-family: 'Playfair Display', serif;
   font-weight: 100;
   font-size: 25px;
