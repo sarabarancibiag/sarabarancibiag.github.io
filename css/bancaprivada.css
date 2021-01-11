@@ -82,24 +82,41 @@ h1 {
 
 
 .intro {
-  background-color: #fffcf5;
-  height: 400px;
-  padding: 90px 40px 100px;
-  line-height: 140%;
+  height: 2600px;
+  padding: 90px 40px 500px;
+  line-height: 150%;
 
 }
 
 .subsecciones  {
-  text-align: center;
+  text-align: left;
+  padding: 15px 0px 20px 200px;
   top: 0px;
-  bottom: 15px;
+  bottom: 10px;
   position: relative;
   font-weight: bold;
-  font-size: 40px;
+  font-size: 30px;
   margin-top: 0px;
-  height: 60px;
+  height: 30px;
 
 }
+
+  .entel {
+    text-align: left;
+    padding: 0px 0px 30px 200px;
+
+  }
+
+  .sketch {
+    max-width: 40%;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .imagenes {
+    max-width: 100%;
+    padding: 10px 0px 10px 60px;
+
+  }
 
 .subseccionobjetivo {
   text-align: center;
